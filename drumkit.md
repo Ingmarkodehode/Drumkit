@@ -72,3 +72,4 @@ setter playtime på filen til 0 så spiller av lydfilen.
 # Ekstra ting eg vil gjøre senere
 
 fargeendring på siste trykte knapp.
+ 
